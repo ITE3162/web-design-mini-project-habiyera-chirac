@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		
+		<title>Qssignmemt of web</title>
+		<style>
+		
+                   #p{ 
+		height:23px; 
+		border-radius:2px; 
+		color:white; 
+	background:#007bff; 
+		font-size: 18px;
+		font-family:Times New Roman; 
+		width: 180px; 
+		border: none; 
+		 
+    text-decoration: none;
+
+		 
+			}
+                  		#pp{ 
+		height:27px; 
+		border-radius:2px; 
+		color:white; 
+		background:red; 
+		font-size: 18px; 
+		font-family:Times New Roman; 
+		width: 180px; 
+		border:double; 
+		text-decoration: none; 
+		text-align: center; 
+	 
+                
+                 }
+                             #btn{ 
+		height:35px; 
+		border-radius: 5px; 
+		color:white; 
+		background:#1a0ef8; 
+		font-size: 27px; 
+		font-family: Juice ITC; 
+		width: 127px; 
+		border: none; 
+                margin-left: 40px; 
+		 
+		text-align: center; 
+		box-shadow:  3px 2px black; 
+		 
+			} 
+			#btn:hover{ 
+                            background:white; 
+			color:red; 
+			font-size: 27px; 
+			font-family:Juice ITC;	 
+			} 
+			                        #fab{ 
+              height:35px; 
+		border-radius: 17px; 
+		color:  blue; 
+		background:white; 
+		font-size: 23px; 
+		font-family:Juice ITC; 
+		width: 310px; 
+		border: none; 
+                margin-right: -33px; 
+		 
+		text-align: center; 
+		box-shadow: 2px 6px 10px blue; 
+         
+                        } 
+                        #fab:hover{ 
+                        border-radius: 20px; 
+                        background:#ffffff; 
+			color: blue; 
+			font-size: 20px; 
+			font-family:Monotype Corsiva; 
+                              
+                        }
+
+
+					 .mnu
+{
+background-color:#000000;
+padding:4px 7px 4px 7px;
+color:#FFFFFF;
+text-decoration:none;
+-moz-border-radius:3px 3px 0 0;
+-webkit-border-radius:3px 3px 0 0;
+border-radius:3px 3px 0 0;
+text-transform:uppercase;
+
+}         
+                    </style></head></html>
